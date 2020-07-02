@@ -525,7 +525,7 @@ Note that in this user interface, players are **not** holding their hands like t
   * It is the first turn and nothing is played on the stacks.
   * Alice clues Bob red, touching a red card on slot 1 as a *Play Clue*.
   * Bob immediately right-clicks on the card and writes a note" of "red 1".
-  * This card is now "locked in" as a red 1. When using conventions to interpret subsequent clues, they do not contradict this.
+  * This card is now "locked in" as a red 1. Interpret subsequent clues in a way that is compatible with this information, if possible.
 
 #### Information Lock with a Superposition
 
