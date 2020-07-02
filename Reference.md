@@ -525,7 +525,7 @@ Note that in this user interface, players are **not** holding their hands like t
   * It is the first turn and nothing is played on the stacks.
   * Alice clues Bob red, touching a red card on slot 1 as a *Play Clue*.
   * Bob immediately right-clicks on the card and writes a note" of "red 1".
-  * This card is now "locked in" as a red 1. No future clues or actions from other players can ever change that.
+  * This card is now "locked in" as a red 1. When using conventions to interpret subsequent clues, they do not contradict this.
 
 #### Information Lock with a Superposition
 
@@ -553,7 +553,7 @@ Note that in this user interface, players are **not** holding their hands like t
 
 #### Breaking Information Lock
 
-* A direct conflict is the only thing that can "break" an information lock.
+* To reiterate, this only applies to conventional information. Direct contradictory observation "breaks" an information lock.
 * For example, in a 3-player game:
   * Alice has a card that is locked in as a red 2.
   * Alice receives a blue clue, which happens to touch this card.
